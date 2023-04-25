@@ -1,0 +1,25 @@
+header {
+  background-color: rgb(255, 92, 241);
+  width: 100%;
+}
+
+menu {
+  background-color: rgb(204, 65, 255);
+}
+
+aside {
+  background-color: rgb(255, 0, 212);
+}
+
+main {
+  background-color: rgb(255, 0, 212);
+  width: 100%;
+}
+
+footer {
+  background-color: rgb(204, 65, 255);
+}
+
+section {
+  background-color: rgb(255, 180, 205);
+}

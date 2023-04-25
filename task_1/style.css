@@ -1,0 +1,18 @@
+.MyText {
+  text-align: center;
+}
+body {
+  text-align: center;
+}
+.divFruits {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.divFruitsItems {
+  border: 1px solid gray;
+  display: inline-block;
+  border-radius: 5px;
+  margin: 10px;
+  width: 140px;
+}

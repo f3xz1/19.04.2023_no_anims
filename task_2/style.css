@@ -1,0 +1,29 @@
+.menu {
+  display: flex;
+  flex-direction: column;
+}
+.menuItems {
+  padding: 0px;
+  width: 200px;
+  background-color: rgb(128, 128, 128);
+  color: white;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+.imgSmall {
+  width: 45;
+  height: 45;
+  text-align: center;
+}
+a {
+  text-align: center;
+  display: flex;
+  text-decoration: none;
+  color: white;
+}
+
+li:hover,
+li:active {
+  background-color: rgb(100, 100, 100);
+}

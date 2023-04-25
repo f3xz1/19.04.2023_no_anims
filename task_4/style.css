@@ -1,0 +1,101 @@
+.UpperBorderedDiv {
+  border-top: white 1px solid;
+  align-items: center;
+}
+footer {
+  background-color: darkslategray;
+  margin: 2rem;
+  padding: 3vw;
+}
+ul {
+  list-style: none;
+}
+
+.ImagesUl {
+  display: flex;
+}
+.ImagesLi {
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.MainDiv {
+  height: 150px;
+  background-color: darkslategrey;
+  margin: 400px;
+  padding: 30px;
+}
+
+.UpperDiv {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 8em;
+  padding-right: 8em;
+}
+.LowerDiv {
+  text-align: center;
+}
+
+p {
+  color: white;
+}
+
+img {
+  width: 40px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.FacebookImg {
+  background-image: url(/images/fb_gray.png);
+  height: 40px;
+  width: 40px;
+  background-size: cover;
+  cursor: pointer;
+  margin-right: 15px;
+}
+.YoutubeImg {
+  background-image: url(/images/youtube_gray.png);
+  height: 40px;
+  width: 40px;
+  background-size: cover;
+  cursor: pointer;
+  margin-right: 15px;
+}
+.InstagramImg {
+  background-image: url(/images/insta_gray.png);
+  height: 40px;
+  width: 40px;
+  background-size: cover;
+  cursor: pointer;
+  margin-right: 15px;
+}
+.FacebookImg:hover {
+  background-image: url(/images/fb.png);
+}
+.YoutubeImg:hover {
+  background-image: url(/images/youtube.png);
+}
+.InstagramImg:hover {
+  background-image: url(/images/insta.png);
+}
+.Icons {
+  display: flex;
+  justify-content: space-evenly;
+}
+/* .icon {
+  display: flex;
+} */
+i {
+  color: white;
+}
